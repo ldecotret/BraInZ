@@ -6,7 +6,7 @@
 
 ### Option 1:
 - Open Fiji ImageJ Software.
-- Drap and drop .ijm file.
+- Drag and drop .ijm file.
 
 ### Option 2:
 - Open Fiji ImageJ Software.
@@ -15,3 +15,6 @@
 - Cope and paste code onto "Line 1".
 - Open an 8-bit image.
 - Press "Run".
+
+## Questions?
+- Contact rshi@bccrc.ca or kbennewi@bccrc.ca
