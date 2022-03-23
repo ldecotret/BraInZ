@@ -1,8 +1,15 @@
-What is this project used for? 
+## What is this project used for? 
 - The InvBrainZ IamgeJ macro is used measure the **inv**asiveness of tumour spheroids into *ex vivo* **brain** slices in the **Z** direction.
 
-How to use the file:
-- Open Fiji IamgeJ Software.
+
+## How to use the file:
+
+### Option 1:
+- Open Fiji ImageJ Software.
+- Drap and drop .ijm file.
+
+### Option 2:
+- Open Fiji ImageJ Software.
 - Plugin > Macros > Macro Startup.
 - File > New.
 - Cope and paste code onto "Line 1".
