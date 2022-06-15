@@ -1,5 +1,5 @@
 ## What is this project used for? 
-- The InvBrainZ IamgeJ macro is used measure the **inv**asiveness of tumour spheroids into *ex vivo* **brain** slices in the **Z** direction.
+- The **BraInZ** IamgeJ macro is used measure the invasiveness of tumour spheroids into *ex vivo* brain slices in the Z direction.
 
 
 ## How to use the file:
